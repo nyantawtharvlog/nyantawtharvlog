@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nyan Taw Thar Vlog 👋
 
 <!--
 **nyantawtharvlog/nyantawtharvlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
